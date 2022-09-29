@@ -7,7 +7,7 @@ export const ReactReduxHooks = [
   'useSelector',
 	'useDispatch',
 	'useStore',
-	'shallowEqual',
+  'shallowEqual',
 ]
 
 export default <ImportsMap>({
