@@ -3,10 +3,10 @@ import type { ImportsMap } from '../types'
 export const ReactReduxHooks = [
   'batch',
   'connect',
-	'Provider',
+  'Provider',
   'useSelector',
-	'useDispatch',
-	'useStore',
+  'useDispatch',
+  'useStore',
   'shallowEqual',
 ]
 
